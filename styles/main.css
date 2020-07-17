@@ -2162,19 +2162,19 @@ body {
       background-color: #f8f9fafe;
     }
     .site-meta {
-      background: #f3f0ff !important;
+      background: #495057 !important;
     }
     .head-top-line {
-      background: #f3f0ff;
+      background: #495057;
     }
     .brand {
-      background: #f3f0fffe;
+      background: #868e96fe;
     }
     .main-title, .brand {
-      color: #212529 !important;
+      color: #f8f9fa !important;
     }
     .mist .site-title i {
-      background: #212529fe;
+      background: #f8f9fafe;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
