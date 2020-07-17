@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bitdyn.github.io</id>
     <title>My Blog</title>
-    <updated>2020-07-17T08:46:25.399Z</updated>
+    <updated>2020-07-17T08:56:51.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bitdyn.github.io"/>
     <link rel="self" href="https://bitdyn.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://bitdyn.github.io/images/avatar.png</logo>
     <icon>https://bitdyn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, My Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[今天天气好晴朗]]></title>
+        <id>https://bitdyn.github.io/post/jin-tian-tian-qi-hao-qing-lang/</id>
+        <link href="https://bitdyn.github.io/post/jin-tian-tian-qi-hao-qing-lang/">
+        </link>
+        <updated>2020-07-17T08:49:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>#这是摘要</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>#这是摘要</p>
+<!-- more -->
+<p>😀添加表情很可爱<br>
+<img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1594986048764&amp;di=138f48d5619a740c416d2cdb87d9e22f&amp;imgtype=0&amp;src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201704%2F10%2F20170410185950_XPEis.jpeg" alt="" loading="lazy"></p>
+<h2 id="标题">标题</h2>
+<p><strong>加粗</strong><br>
+<em>斜体</em><br>
+<em><strong>又斜又粗</strong></em></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bitdyn.github.io/post/hello-gridea/</id>
