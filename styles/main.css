@@ -2072,7 +2072,7 @@ body {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeeefe;
+      background: #212529fe;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2119,11 +2119,11 @@ body {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f9fe;
+      background: #e9eceffe;
     }
 
     .nav-item:hover {
-      background: #f9f9f9fe;
+      background: #e9eceffe;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2135,11 +2135,11 @@ body {
       transition-duration: 59s;
       transition-timing-function: cubic-bezier(.34,0,.84,1);
     }.markdownIt-TOC a {
-      color: #eee;
-      border-bottom-color: #eee;
+      color: #868e96;
+      border-bottom-color: #868e96;
     }.markdownIt-TOC a:hover {
-      color: #fff;
-      border-bottom-color: #fff;
+      color: #212529;
+      border-bottom-color: #212529;
     }.active-current > a {
       color: #fc6423 !important;
       border-bottom-color: #fc6423 !important;
@@ -2159,16 +2159,16 @@ body {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #fff4e6fe;
+      background-color: #f8f9fafe;
     }
     .site-meta {
-      background: #f8f9fa !important;
+      background: #f3f0ff !important;
     }
     .head-top-line {
-      background: #f8f9fa;
+      background: #f3f0ff;
     }
     .brand {
-      background: #e9eceffe;
+      background: #f3f0fffe;
     }
     .main-title, .brand {
       color: #212529 !important;
